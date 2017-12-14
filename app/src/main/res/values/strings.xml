@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">personnelManagement</string>
+    <string name="list_departament">List Departament</string>
+    <string name="list_employed">List Employed</string>
+    <string name="employed">Employed</string>
+    <string name="employedImagen">employed_image</string>
+    <string name="personal_data">Personal Data</string>
+    <string name="contact_data">Contact Data</string>
+    <string name="employed_data">Employed Data</string>
+    <string name="employed_name">employed name</string>
+    <string name="employed_surnames">Employed Surnames</string>
+    <string name="latest_studies_label">Latest Studies</string>
+    <string name="latest_job_label">Lasted Job</string>
+    <string name="address_label">Address</string>
+    <string name="movil_label">Movil</string>
+    <string name="email_label">Email</string>
+    <string name="job_position_label">Job Position</string>
+    <string name="department_label">Department</string>
+</resources>
